@@ -1,0 +1,1937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mylist>
+	<export name="xml-mystatus" v="0.2" user="RayVlaj" time="03.01.2021 06:16" />
+	<anime>
+		<entry id="12014" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="12">
+			<name><![CDATA[91 Days]]></name>
+		</entry>
+	
+		<entry id="12136" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[ACCA 13-ku Kansatsu-ka]]></name>
+		</entry>
+	
+		<entry id="8691" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="24">
+			<name><![CDATA[Accel World]]></name>
+		</entry>
+	
+		<entry id="11690" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="3">
+			<name><![CDATA[Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari]]></name>
+		</entry>
+	
+		<entry id="13636" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="10">
+			<name><![CDATA[Aggressive Retsuko (2018)]]></name>
+		</entry>
+	
+		<entry id="14199" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="10">
+			<name><![CDATA[Aggressive Retsuko (2019)]]></name>
+		</entry>
+	
+		<entry id="15034" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="10">
+			<name><![CDATA[Aggressive Retsuko (2020)]]></name>
+		</entry>
+	
+		<entry id="2870" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ai]]></name>
+		</entry>
+	
+		<entry id="11577" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="13">
+			<name><![CDATA[Ajin (2016)]]></name>
+		</entry>
+	
+		<entry id="12111" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="13">
+			<name><![CDATA[Ajin 2 (2016)]]></name>
+		</entry>
+	
+		<entry id="1061" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Akage no Anne]]></name>
+		</entry>
+	
+		<entry id="10407" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="24">
+			<name><![CDATA[Akame ga Kill!]]></name>
+		</entry>
+	
+		<entry id="12411" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="3">
+			<name><![CDATA[Akiba`s Trip the Animation]]></name>
+		</entry>
+	
+		<entry id="28" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Akira]]></name>
+		</entry>
+	
+		<entry id="15437" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="12">
+			<name><![CDATA[Akudama Drive]]></name>
+		</entry>
+	
+		<entry id="9916" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="4">
+			<name><![CDATA[Akuma no Riddle]]></name>
+		</entry>
+	
+		<entry id="10445" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="12">
+			<name><![CDATA[Aldnoah.Zero]]></name>
+		</entry>
+	
+		<entry id="10846" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Aldnoah.Zero (2015)]]></name>
+		</entry>
+	
+		<entry id="11580" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="2">
+			<name><![CDATA[All Out!!]]></name>
+		</entry>
+	
+		<entry id="11952" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="12">
+			<name><![CDATA[Amaama to Inazuma]]></name>
+		</entry>
+	
+		<entry id="10399" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="13">
+			<name><![CDATA[Amagi Brilliant Park]]></name>
+		</entry>
+	
+		<entry id="6564" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="13">
+			<name><![CDATA[Angel Beats!]]></name>
+		</entry>
+	
+		<entry id="5211" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ani*Kuri15]]></name>
+		</entry>
+	
+		<entry id="8181" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="11">
+			<name><![CDATA[Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.]]></name>
+		</entry>
+	
+		<entry id="8620" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ano Natsu de Matteru]]></name>
+		</entry>
+	
+		<entry id="8556" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Another]]></name>
+		</entry>
+	
+		<entry id="8148" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="25">
+			<name><![CDATA[Ao no Exorcist]]></name>
+		</entry>
+	
+		<entry id="12240" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ao no Exorcist: Kyoto Fujouou Hen]]></name>
+		</entry>
+	
+		<entry id="10934" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="3">
+			<name><![CDATA[Ao no Kanata no Four Rhythm]]></name>
+		</entry>
+	
+		<entry id="1312" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Appleseed (2004)]]></name>
+		</entry>
+	
+		<entry id="2659" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Aria the Animation]]></name>
+		</entry>
+	
+		<entry id="4243" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Aria the Natural]]></name>
+		</entry>
+	
+		<entry id="5424" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Aria the Origination]]></name>
+		</entry>
+	
+		<entry id="1457" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ashita no Joe]]></name>
+		</entry>
+	
+		<entry id="106" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="17">
+			<name><![CDATA[Azumanga Daiou The Animation (2002)]]></name>
+		</entry>
+	
+		<entry id="4897" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="13">
+			<name><![CDATA[Baccano!]]></name>
+		</entry>
+	
+		<entry id="10967" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Bakemono no Ko]]></name>
+		</entry>
+	
+		<entry id="6327" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="15">
+			<name><![CDATA[Bakemonogatari]]></name>
+		</entry>
+	
+		<entry id="10505" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="3">
+			<name><![CDATA[Bakumatsu Rock]]></name>
+		</entry>
+	
+		<entry id="12700" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="24">
+			<name><![CDATA[Ballroom e Youkoso]]></name>
+		</entry>
+	
+		<entry id="10111" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="3">
+			<name><![CDATA[Barakamon]]></name>
+		</entry>
+	
+		<entry id="2436" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Basilisk: Kouga Ninpou Chou]]></name>
+		</entry>
+	
+		<entry id="11996" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="11">
+			<name><![CDATA[Battery]]></name>
+		</entry>
+	
+		<entry id="14659" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="12">
+			<name><![CDATA[Beastars]]></name>
+		</entry>
+	
+		<entry id="15330" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Beastars (2021)]]></name>
+		</entry>
+	
+		<entry id="2320" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="26">
+			<name><![CDATA[Beck: Mongolian Chop Squad]]></name>
+		</entry>
+	
+		<entry id="235" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Bishoujo Senshi Sailor Moon]]></name>
+		</entry>
+	
+		<entry id="10181" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="13">
+			<name><![CDATA[Black Bullet]]></name>
+		</entry>
+	
+		<entry id="3395" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Black Lagoon]]></name>
+		</entry>
+	
+		<entry id="2369" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="63">
+			<name><![CDATA[Bleach]]></name>
+		</entry>
+	
+		<entry id="14997" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="12">
+			<name><![CDATA[BNA]]></name>
+		</entry>
+	
+		<entry id="11292" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Boku dake ga Inai Machi]]></name>
+		</entry>
+	
+		<entry id="11739" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="13">
+			<name><![CDATA[Boku no Hero Academia]]></name>
+		</entry>
+	
+		<entry id="12233" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="25">
+			<name><![CDATA[Boku no Hero Academia (2017)]]></name>
+		</entry>
+	
+		<entry id="13485" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="25">
+			<name><![CDATA[Boku no Hero Academia (2018)]]></name>
+		</entry>
+	
+		<entry id="14416" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="13">
+			<name><![CDATA[Boku no Hero Academia (2019)]]></name>
+		</entry>
+	
+		<entry id="4544" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="3">
+			<name><![CDATA[Boku no Piko]]></name>
+		</entry>
+	
+		<entry id="4861" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Bokura no]]></name>
+		</entry>
+	
+		<entry id="5842" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Bounen no Xamdou]]></name>
+		</entry>
+	
+		<entry id="1094" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[BPS: Battle Programmer Shirase]]></name>
+		</entry>
+	
+		<entry id="68" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Bubblegum Crisis]]></name>
+		</entry>
+	
+		<entry id="10067" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="4">
+			<name><![CDATA[Captain Earth]]></name>
+		</entry>
+	
+		<entry id="10997" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="13">
+			<name><![CDATA[Charlotte]]></name>
+		</entry>
+	
+		<entry id="8538" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="25">
+			<name><![CDATA[Chihayafuru]]></name>
+		</entry>
+	
+		<entry id="9261" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="25">
+			<name><![CDATA[Chihayafuru 2]]></name>
+		</entry>
+	
+		<entry id="13841" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="24">
+			<name><![CDATA[Chihayafuru 3]]></name>
+		</entry>
+	
+		<entry id="8883" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Chuunibyou demo Koi ga Shitai!]]></name>
+		</entry>
+	
+		<entry id="12545" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="4">
+			<name><![CDATA[Citrus]]></name>
+		</entry>
+	
+		<entry id="5101" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="22">
+			<name><![CDATA[Clannad]]></name>
+		</entry>
+	
+		<entry id="5841" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="22">
+			<name><![CDATA[Clannad: After Story]]></name>
+		</entry>
+	
+		<entry id="7508" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Code Geass: Boukoku no Akito]]></name>
+		</entry>
+	
+		<entry id="12566" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Code Geass: Fukkatsu no Lelouch]]></name>
+		</entry>
+	
+		<entry id="4521" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="25">
+			<name><![CDATA[Code Geass: Hangyaku no Lelouch]]></name>
+		</entry>
+	
+		<entry id="8914" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="1">
+			<name><![CDATA[Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland]]></name>
+		</entry>
+	
+		<entry id="5373" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="25">
+			<name><![CDATA[Code Geass: Hangyaku no Lelouch R2]]></name>
+		</entry>
+	
+		<entry id="7409" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="1">
+			<name><![CDATA[Colorful (2010)]]></name>
+		</entry>
+	
+		<entry id="11343" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="1">
+			<name><![CDATA[Concrete Revolutio: Choujin Gensou]]></name>
+		</entry>
+	
+		<entry id="23" is_watched="1" is_completed="1" my_rating="9" my_rating_temp="" eps="26">
+			<name><![CDATA[Cowboy Bebop]]></name>
+		</entry>
+	
+		<entry id="219" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Cowboy Bebop: Tengoku no Tobira]]></name>
+		</entry>
+	
+		<entry id="6424" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="50">
+			<name><![CDATA[Cross Game]]></name>
+		</entry>
+	
+		<entry id="11601" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Dagashi Kashi]]></name>
+		</entry>
+	
+		<entry id="13355" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="1">
+			<name><![CDATA[Dagashi Kashi 2]]></name>
+		</entry>
+	
+		<entry id="9555" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="13">
+			<name><![CDATA[Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation]]></name>
+		</entry>
+	
+		<entry id="10676" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="13">
+			<name><![CDATA[Danna ga Nani o Itte Iruka Wakaranai Ken]]></name>
+		</entry>
+	
+		<entry id="8729" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Danshi Koukousei no Nichijou]]></name>
+		</entry>
+	
+		<entry id="4906" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="25">
+			<name><![CDATA[Darker Than Black: Kuro no Keiyakusha]]></name>
+		</entry>
+	
+		<entry id="6644" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Darker Than Black: Ryuusei no Gemini]]></name>
+		</entry>
+	
+		<entry id="13259" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="23">
+			<name><![CDATA[Darling in the Franxx]]></name>
+		</entry>
+	
+		<entry id="11875" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="3">
+			<name><![CDATA[Days]]></name>
+		</entry>
+	
+		<entry id="4563" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="37">
+			<name><![CDATA[Death Note]]></name>
+		</entry>
+	
+		<entry id="14994" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="12">
+			<name><![CDATA[Deca-Dence]]></name>
+		</entry>
+	
+		<entry id="12374" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="4">
+			<name><![CDATA[Demi-chan wa Kataritai]]></name>
+		</entry>
+	
+		<entry id="63" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Den`ei Shoujo Video Girl AI]]></name>
+		</entry>
+	
+		<entry id="4345" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Dennou Coil]]></name>
+		</entry>
+	
+		<entry id="12986" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="10">
+			<name><![CDATA[Devilman: Crybaby]]></name>
+		</entry>
+	
+		<entry id="562" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Digimon Tamers]]></name>
+		</entry>
+	
+		<entry id="11345" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="12">
+			<name><![CDATA[Dimension W]]></name>
+		</entry>
+	
+		<entry id="14483" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="12">
+			<name><![CDATA[Dorohedoro]]></name>
+		</entry>
+	
+		<entry id="11134" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Doukyuusei]]></name>
+		</entry>
+	
+		<entry id="14491" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="24">
+			<name><![CDATA[Dr. Stone]]></name>
+		</entry>
+	
+		<entry id="1530" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="3">
+			<name><![CDATA[Dragon Ball Z]]></name>
+		</entry>
+	
+		<entry id="9314" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="1">
+			<name><![CDATA[Dragon Ball Z: Kami to Kami]]></name>
+		</entry>
+	
+		<entry id="11164" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="1">
+			<name><![CDATA[Drifters]]></name>
+		</entry>
+	
+		<entry id="6671" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="26">
+			<name><![CDATA[Durarara!!]]></name>
+		</entry>
+	
+		<entry id="10867" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="8">
+			<name><![CDATA[Durarara!!x2 Ketsu]]></name>
+		</entry>
+	
+		<entry id="10523" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="12">
+			<name><![CDATA[Durarara!!x2 Shou]]></name>
+		</entry>
+	
+		<entry id="10866" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="12">
+			<name><![CDATA[Durarara!!x2 Ten]]></name>
+		</entry>
+	
+		<entry id="10937" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="1">
+			<name><![CDATA[Eiga Koe no Katachi]]></name>
+		</entry>
+	
+		<entry id="14907" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="12">
+			<name><![CDATA[Eizouken ni wa Te o Dasuna!]]></name>
+		</entry>
+	
+		<entry id="14488" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="24">
+			<name><![CDATA[En`en no Shouboutai]]></name>
+		</entry>
+	
+		<entry id="15335" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[En`en no Shouboutai Ni no Shou]]></name>
+		</entry>
+	
+		<entry id="3302" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="23">
+			<name><![CDATA[Ergo Proxy]]></name>
+		</entry>
+	
+		<entry id="11981" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="7">
+			<name><![CDATA[Eromanga-sensei]]></name>
+		</entry>
+	
+		<entry id="6171" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="1">
+			<name><![CDATA[Evangelion Shin Gekijouban: Ha]]></name>
+		</entry>
+	
+		<entry id="4847" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="1">
+			<name><![CDATA[Evangelion Shin Gekijouban: Jo]]></name>
+		</entry>
+	
+		<entry id="7565" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="1">
+			<name><![CDATA[Evangelion Shin Gekijouban: Q]]></name>
+		</entry>
+	
+		<entry id="5132" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="6">
+			<name><![CDATA[Eve no Jikan]]></name>
+		</entry>
+	
+		<entry id="12704" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="25">
+			<name><![CDATA[Fate/Apocrypha]]></name>
+		</entry>
+	
+		<entry id="12046" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Fate/Extra: Last Encore]]></name>
+		</entry>
+	
+		<entry id="9977" is_watched="1" is_completed="1" my_rating="" my_rating_temp="4" eps="13">
+			<name><![CDATA[Fate/Stay Night: Unlimited Blade Works (2014)]]></name>
+		</entry>
+	
+		<entry id="10760" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="13">
+			<name><![CDATA[Fate/Stay Night: Unlimited Blade Works (2015)]]></name>
+		</entry>
+	
+		<entry id="8160" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="13">
+			<name><![CDATA[Fate/Zero]]></name>
+		</entry>
+	
+		<entry id="8880" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="12">
+			<name><![CDATA[Fate/Zero (2012)]]></name>
+		</entry>
+	
+		<entry id="12007" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="13">
+			<name><![CDATA[Flip Flappers]]></name>
+		</entry>
+	
+		<entry id="7190" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="1">
+			<name><![CDATA[Fumiko no Kokuhaku]]></name>
+		</entry>
+	
+		<entry id="117" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="6">
+			<name><![CDATA[Furi Kuri]]></name>
+		</entry>
+	
+		<entry id="12023" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Furi Kuri Progressive]]></name>
+		</entry>
+	
+		<entry id="6113" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Ga-Rei: Zero]]></name>
+		</entry>
+	
+		<entry id="5107" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="1">
+			<name><![CDATA[Gake no Ue no Ponyo]]></name>
+		</entry>
+	
+		<entry id="10733" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="2">
+			<name><![CDATA[Gangsta.]]></name>
+		</entry>
+	
+		<entry id="9820" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Gatchaman Crowds]]></name>
+		</entry>
+	
+		<entry id="10226" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Gatchaman Crowds Insight]]></name>
+		</entry>
+	
+		<entry id="13742" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Gegege no Kitarou (2018)]]></name>
+		</entry>
+	
+		<entry id="12567" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch]]></name>
+		</entry>
+	
+		<entry id="10755" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Gekijouban Fate/Stay Night: Heaven`s Feel]]></name>
+		</entry>
+	
+		<entry id="13207" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Gekijouban Hibike! Euphonium: Chikai no Finale]]></name>
+		</entry>
+	
+		<entry id="15113" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Gekijouban Kimetsu no Yaiba: Mugen Ressha Hen]]></name>
+		</entry>
+	
+		<entry id="13612" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="1">
+			<name><![CDATA[Gekijouban Made in Abyss: Fukaki Tamashii no Reimei]]></name>
+		</entry>
+	
+		<entry id="8778" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="3">
+			<name><![CDATA[Gekijouban Mahou Shoujo Madoka Magica]]></name>
+		</entry>
+	
+		<entry id="6325" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Gekijouban Tengen Toppa Gurren Lagann: Lagann Hen]]></name>
+		</entry>
+	
+		<entry id="8694" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="1">
+			<name><![CDATA[Gekijouban Toaru Majutsu no Index: Endymion no Kiseki]]></name>
+		</entry>
+	
+		<entry id="61" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ghost in the Shell]]></name>
+		</entry>
+	
+		<entry id="964" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Giant Robo The Animation: Chikyuu ga Seishi Suru Hi]]></name>
+		</entry>
+	
+		<entry id="3385" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Gin`iro no Kami no Agito]]></name>
+		</entry>
+	
+		<entry id="584" is_watched="1" is_completed="1" my_rating="10" my_rating_temp="" eps="110">
+			<name><![CDATA[Ginga Eiyuu Densetsu]]></name>
+		</entry>
+	
+		<entry id="11904" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Girlish Number]]></name>
+		</entry>
+	
+		<entry id="14721" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="13">
+			<name><![CDATA[Gleipnir]]></name>
+		</entry>
+	
+		<entry id="355" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Golden Boy]]></name>
+		</entry>
+	
+		<entry id="9771" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="24">
+			<name><![CDATA[Golden Time]]></name>
+		</entry>
+	
+		<entry id="7719" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="24">
+			<name><![CDATA[Gosick]]></name>
+		</entry>
+	
+		<entry id="14990" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="23">
+			<name><![CDATA[Great Pretender]]></name>
+		</entry>
+	
+		<entry id="191" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="43">
+			<name><![CDATA[GTO]]></name>
+		</entry>
+	
+		<entry id="45" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Gun Smith Cats]]></name>
+		</entry>
+	
+		<entry id="5427" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="26">
+			<name><![CDATA[Gyakkyou Burai Kaiji: Ultimate Survivor]]></name>
+		</entry>
+	
+		<entry id="10540" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Gyakusatsu Kikan]]></name>
+		</entry>
+	
+		<entry id="979" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="51">
+			<name><![CDATA[Hagane no Renkinjutsushi]]></name>
+		</entry>
+	
+		<entry id="6107" is_watched="0" is_completed="1" my_rating="8" my_rating_temp="" eps="54">
+			<name><![CDATA[Hagane no Renkinjutsushi (2009)]]></name>
+		</entry>
+	
+		<entry id="8090" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Hagane no Renkinjutsushi: Milos no Seinaru Hoshi]]></name>
+		</entry>
+	
+		<entry id="1383" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Haha o Tazunete Sanzenri]]></name>
+		</entry>
+	
+		<entry id="271" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Haibane Renmei]]></name>
+		</entry>
+	
+		<entry id="10145" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="8">
+			<name><![CDATA[Haikyuu!!]]></name>
+		</entry>
+	
+		<entry id="982" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Hajime no Ippo: Champion Road]]></name>
+		</entry>
+	
+		<entry id="129" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="75">
+			<name><![CDATA[Hajime no Ippo: The Fighting!]]></name>
+		</entry>
+	
+		<entry id="6153" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="26">
+			<name><![CDATA[Hajime no Ippo: The Fighting! - New Challenger]]></name>
+		</entry>
+	
+		<entry id="9982" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="25">
+			<name><![CDATA[Hajime no Ippo: The Fighting! - Rising]]></name>
+		</entry>
+	
+		<entry id="12554" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="10">
+			<name><![CDATA[Hajimete no Gal]]></name>
+		</entry>
+	
+		<entry id="3225" is_watched="1" is_completed="1" my_rating="1" my_rating_temp="" eps="1">
+			<name><![CDATA[Hametsu no Mars]]></name>
+		</entry>
+	
+		<entry id="10046" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Hanamonogatari: Suruga Devil]]></name>
+		</entry>
+	
+		<entry id="11270" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="2">
+			<name><![CDATA[Haruchika: Haruta to Chika wa Seishun Suru]]></name>
+		</entry>
+	
+		<entry id="9466" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="13">
+			<name><![CDATA[Hataraku Maou-sama!]]></name>
+		</entry>
+	
+		<entry id="10889" is_watched="1" is_completed="1" my_rating="9" my_rating_temp="" eps="21">
+			<name><![CDATA[Hibike! Euphonium]]></name>
+		</entry>
+	
+		<entry id="11746" is_watched="1" is_completed="1" my_rating="9" my_rating_temp="" eps="13">
+			<name><![CDATA[Hibike! Euphonium 2]]></name>
+		</entry>
+	
+		<entry id="6238" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Higashi no Eden]]></name>
+		</entry>
+	
+		<entry id="8660" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="4">
+			<name><![CDATA[High School DxD]]></name>
+		</entry>
+	
+		<entry id="3574" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="26">
+			<name><![CDATA[Higurashi no Naku Koro ni]]></name>
+		</entry>
+	
+		<entry id="15350" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Higurashi no Naku Koro ni Gou]]></name>
+		</entry>
+	
+		<entry id="4894" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="24">
+			<name><![CDATA[Higurashi no Naku Koro ni Kai]]></name>
+		</entry>
+	
+		<entry id="8350" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Higurashi no Naku Koro ni Kira]]></name>
+		</entry>
+	
+		<entry id="9973" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Hitsugi no Chaika]]></name>
+		</entry>
+	
+		<entry id="10639" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="10">
+			<name><![CDATA[Hitsugi no Chaika: Avenging Battle]]></name>
+		</entry>
+	
+		<entry id="332" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="1">
+			<name><![CDATA[Hotaru no Haka]]></name>
+		</entry>
+	
+		<entry id="8289" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Hotarubi no Mori e]]></name>
+		</entry>
+	
+		<entry id="7949" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Hourou Musuko]]></name>
+		</entry>
+	
+		<entry id="13165" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Houseki no Kuni (2017)]]></name>
+		</entry>
+	
+		<entry id="13526" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Hugtto! Precure]]></name>
+		</entry>
+	
+		<entry id="8550" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="148">
+			<name><![CDATA[Hunter x Hunter (2011)]]></name>
+		</entry>
+	
+		<entry id="8855" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="22">
+			<name><![CDATA[Hyouka]]></name>
+		</entry>
+	
+		<entry id="15622" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ijiranaide, Nagatoro-san]]></name>
+		</entry>
+	
+		<entry id="10273" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Isshuukan Friends.]]></name>
+		</entry>
+	
+		<entry id="13385" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="1">
+			<name><![CDATA[Itou Junji: Collection]]></name>
+		</entry>
+	
+		<entry id="83" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Jin-Rou]]></name>
+		</entry>
+	
+		<entry id="8276" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Jinrui wa Suitai Shimashita]]></name>
+		</entry>
+	
+		<entry id="10446" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="2">
+			<name><![CDATA[Jinsei Soudan TV Animation: Jinsei]]></name>
+		</entry>
+	
+		<entry id="9304" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[JoJo no Kimyou na Bouken (2012)]]></name>
+		</entry>
+	
+		<entry id="6257" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="21">
+			<name><![CDATA[K-On!]]></name>
+		</entry>
+	
+		<entry id="7307" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="26">
+			<name><![CDATA[K-On!!]]></name>
+		</entry>
+	
+		<entry id="9515" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="1">
+			<name><![CDATA[Kaguya-hime no Monogatari]]></name>
+		</entry>
+	
+		<entry id="14111" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="12">
+			<name><![CDATA[Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren`ai Zunousen]]></name>
+		</entry>
+	
+		<entry id="15207" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="12">
+			<name><![CDATA[Kaguya-sama wa Kokurasetai? Tensai-tachi no Ren`ai Zunousen]]></name>
+		</entry>
+	
+		<entry id="5673" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kaiba]]></name>
+		</entry>
+	
+		<entry id="12834" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Kakegurui]]></name>
+		</entry>
+	
+		<entry id="13718" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Kakegurui XX]]></name>
+		</entry>
+	
+		<entry id="15267" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kakushigoto]]></name>
+		</entry>
+	
+		<entry id="8370" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Kamisama no Memo-chou: It`s the Only NEET Thing to Do.]]></name>
+		</entry>
+	
+		<entry id="1525" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kamui no Ken]]></name>
+		</entry>
+	
+		<entry id="5720" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kannagi]]></name>
+		</entry>
+	
+		<entry id="461" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kanojo to Kanojo no Neko]]></name>
+		</entry>
+	
+		<entry id="11874" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kanojo to Kanojo no Neko: Everything Flows]]></name>
+		</entry>
+	
+		<entry id="13270" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="1">
+			<name><![CDATA[Karakai Jouzu no Takagi-san]]></name>
+		</entry>
+	
+		<entry id="14591" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Karakai Jouzu no Takagi-san 2]]></name>
+		</entry>
+	
+		<entry id="6613" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="12">
+			<name><![CDATA[Katanagatari]]></name>
+		</entry>
+	
+		<entry id="275" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kaze no Tani no Nausicaa]]></name>
+		</entry>
+	
+		<entry id="9514" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kaze Tachinu]]></name>
+		</entry>
+	
+		<entry id="13697" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Keifuku-san]]></name>
+		</entry>
+	
+		<entry id="11922" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Keijo!!!!!!!!]]></name>
+		</entry>
+	
+		<entry id="12057" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="13">
+			<name><![CDATA[Kemono Friends]]></name>
+		</entry>
+	
+		<entry id="4392" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kemonozume]]></name>
+		</entry>
+	
+		<entry id="13795" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kemurikusa (2019)]]></name>
+		</entry>
+	
+		<entry id="98" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kenpuu Denki Berserk]]></name>
+		</entry>
+	
+		<entry id="302" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Key the Metal Idol]]></name>
+		</entry>
+	
+		<entry id="9875" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="24">
+			<name><![CDATA[Kill la Kill]]></name>
+		</entry>
+	
+		<entry id="14107" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="26">
+			<name><![CDATA[Kimetsu no Yaiba]]></name>
+		</entry>
+	
+		<entry id="6466" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="25">
+			<name><![CDATA[Kimi ni Todoke]]></name>
+		</entry>
+	
+		<entry id="8014" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kimi ni Todoke 2nd Season]]></name>
+		</entry>
+	
+		<entry id="11829" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="1">
+			<name><![CDATA[Kimi no Na wa.]]></name>
+		</entry>
+	
+		<entry id="7031" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[King of Thorn]]></name>
+		</entry>
+	
+		<entry id="575" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kino no Tabi: The Beautiful World]]></name>
+		</entry>
+	
+		<entry id="10272" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="24">
+			<name><![CDATA[Kiseijuu: Sei no Kakuritsu]]></name>
+		</entry>
+	
+		<entry id="11692" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Kiznaiver]]></name>
+		</entry>
+	
+		<entry id="12091" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="14">
+			<name><![CDATA[Kobayashi-san Chi no Maidragon]]></name>
+		</entry>
+	
+		<entry id="12906" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="12">
+			<name><![CDATA[Koi wa Ameagari no You ni]]></name>
+		</entry>
+	
+		<entry id="8742" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kokoro Connect]]></name>
+		</entry>
+	
+		<entry id="10959" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kokoro ga Sakebitagatterunda.]]></name>
+		</entry>
+	
+		<entry id="9376" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kono Sekai no Katasumi ni]]></name>
+		</entry>
+	
+		<entry id="11261" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="10">
+			<name><![CDATA[Kono Subarashii Sekai ni Shukufuku o!]]></name>
+		</entry>
+	
+		<entry id="11992" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="10">
+			<name><![CDATA[Kono Subarashii Sekai ni Shukufuku o! 2]]></name>
+		</entry>
+	
+		<entry id="13317" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="1">
+			<name><![CDATA[Kono Subarashii Sekai ni Shukufuku o! 2: Kono Subarashii Geijutsu ni Shukufuku o!]]></name>
+		</entry>
+	
+		<entry id="11854" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="1">
+			<name><![CDATA[Kono Subarashii Sekai ni Shukufuku o! Kono Subarashii Choker ni Shukufuku o!]]></name>
+		</entry>
+	
+		<entry id="13310" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="1">
+			<name><![CDATA[Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu]]></name>
+		</entry>
+	
+		<entry id="7674" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Kore wa Zombie Desuka?]]></name>
+		</entry>
+	
+		<entry id="8476" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="10">
+			<name><![CDATA[Kore wa Zombie Desuka? Of the Dead]]></name>
+		</entry>
+	
+		<entry id="9589" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="1">
+			<name><![CDATA[Kotonoha no Niwa]]></name>
+		</entry>
+	
+		<entry id="11815" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="2">
+			<name><![CDATA[Koukaku no Pandora: Ghost Urn]]></name>
+		</entry>
+	
+		<entry id="2826" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Koukyoushihen: Eureka Seven]]></name>
+		</entry>
+	
+		<entry id="10951" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="12">
+			<name><![CDATA[Koutetsujou no Kabaneri]]></name>
+		</entry>
+	
+		<entry id="306" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="1">
+			<name><![CDATA[Kurenai no Buta]]></name>
+		</entry>
+	
+		<entry id="6677" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="4">
+			<name><![CDATA[Kuuchuu Buranko]]></name>
+		</entry>
+	
+		<entry id="11998" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Kuzu no Honkai]]></name>
+		</entry>
+	
+		<entry id="3413" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kyojin no Hoshi]]></name>
+		</entry>
+	
+		<entry id="9518" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Kyoukai no Kanata]]></name>
+		</entry>
+	
+		<entry id="9992" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Kyousougiga (2013)]]></name>
+		</entry>
+	
+		<entry id="12235" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="25">
+			<name><![CDATA[Little Witch Academia (2017)]]></name>
+		</entry>
+	
+		<entry id="13491" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Liz to Aoi Tori]]></name>
+		</entry>
+	
+		<entry id="9271" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="9">
+			<name><![CDATA[Love Live! School Idol Project]]></name>
+		</entry>
+	
+		<entry id="10720" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="1">
+			<name><![CDATA[Love Live! The School Idol Movie]]></name>
+		</entry>
+	
+		<entry id="4777" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="24">
+			<name><![CDATA[Lucky Star]]></name>
+		</entry>
+	
+		<entry id="12681" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="13">
+			<name><![CDATA[Made in Abyss]]></name>
+		</entry>
+	
+		<entry id="14360" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Magia Record: Mahou Shoujo Madoka Magica Gaiden]]></name>
+		</entry>
+	
+		<entry id="2443" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Mahoraba: Heartful Days]]></name>
+		</entry>
+	
+		<entry id="8069" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="12">
+			<name><![CDATA[Mahou Shoujo Madoka Magica]]></name>
+		</entry>
+	
+		<entry id="11982" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Mahou Tsukai no Yome: Hoshi Matsu Hito]]></name>
+		</entry>
+	
+		<entry id="10644" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="1">
+			<name><![CDATA[Maid of the Dead]]></name>
+		</entry>
+	
+		<entry id="7236" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Major (2010)]]></name>
+		</entry>
+	
+		<entry id="7439" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Mardock Scramble]]></name>
+		</entry>
+	
+		<entry id="12649" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="1">
+			<name><![CDATA[Mary to Majo no Hana]]></name>
+		</entry>
+	
+		<entry id="12234" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="12">
+			<name><![CDATA[Masamune-kun no Revenge]]></name>
+		</entry>
+	
+		<entry id="8421" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Mawaru Penguindrum]]></name>
+		</entry>
+	
+		<entry id="11863" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="6">
+			<name><![CDATA[Mayoiga]]></name>
+		</entry>
+	
+		<entry id="13517" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="13">
+			<name><![CDATA[Megalo Box]]></name>
+		</entry>
+	
+		<entry id="1729" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Megazone 23]]></name>
+		</entry>
+	
+		<entry id="3545" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Megazone 23 III]]></name>
+		</entry>
+	
+		<entry id="3544" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Megazone 23 Part II: Himitsu Kudasai]]></name>
+		</entry>
+	
+		<entry id="10360" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="12">
+			<name><![CDATA[Mekakucity Actors]]></name>
+		</entry>
+	
+		<entry id="336" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Mimi o Sumaseba]]></name>
+		</entry>
+	
+		<entry id="1834" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Mind Game]]></name>
+		</entry>
+	
+		<entry id="8395" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="26">
+			<name><![CDATA[Mirai Nikki (2011)]]></name>
+		</entry>
+	
+		<entry id="13174" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Mirai no Mirai]]></name>
+		</entry>
+	
+		<entry id="11803" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="12">
+			<name><![CDATA[Mob Psycho 100]]></name>
+		</entry>
+	
+		<entry id="13939" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="13">
+			<name><![CDATA[Mob Psycho 100 II]]></name>
+		</entry>
+	
+		<entry id="9183" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="26">
+			<name><![CDATA[Monogatari Series: Second Season]]></name>
+		</entry>
+	
+		<entry id="5113" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Mononoke]]></name>
+		</entry>
+	
+		<entry id="7" is_watched="1" is_completed="1" my_rating="9" my_rating_temp="" eps="1">
+			<name><![CDATA[Mononoke-hime]]></name>
+		</entry>
+	
+		<entry id="1539" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="74">
+			<name><![CDATA[Monster]]></name>
+		</entry>
+	
+		<entry id="1265" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Mousou Dairinin]]></name>
+		</entry>
+	
+		<entry id="15492" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Munou na Nana]]></name>
+		</entry>
+	
+		<entry id="11500" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="13">
+			<name><![CDATA[Musaigen no Phantom World]]></name>
+		</entry>
+	
+		<entry id="3433" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Mushishi]]></name>
+		</entry>
+	
+		<entry id="10384" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Mushishi Zoku Shou]]></name>
+		</entry>
+	
+		<entry id="10815" is_watched="0" is_completed="1" my_rating="" my_rating_temp="2" eps="5">
+			<name><![CDATA[Nagato Yuki-chan no Shoushitsu]]></name>
+		</entry>
+	
+		<entry id="9387" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Nagi no Asukara]]></name>
+		</entry>
+	
+		<entry id="15136" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Nami yo Kiite Kure]]></name>
+		</entry>
+	
+		<entry id="4143" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="47">
+			<name><![CDATA[Nana]]></name>
+		</entry>
+	
+		<entry id="11075" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="3">
+			<name><![CDATA[Nanbaka]]></name>
+		</entry>
+	
+		<entry id="239" is_watched="0" is_completed="1" my_rating="" my_rating_temp="4" eps="100">
+			<name><![CDATA[Naruto]]></name>
+		</entry>
+	
+		<entry id="5787" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Natsume Yuujinchou]]></name>
+		</entry>
+	
+		<entry id="8667" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Natsume Yuujinchou Shi]]></name>
+		</entry>
+	
+		<entry id="8853" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="4">
+			<name><![CDATA[Nazo no Kanojo X]]></name>
+		</entry>
+	
+		<entry id="11679" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="1">
+			<name><![CDATA[Nejimaki Seirei Senki: Tenkyou no Alderamin]]></name>
+		</entry>
+	
+		<entry id="1027" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Nekojiru-sou]]></name>
+		</entry>
+	
+		<entry id="11736" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[New Game!]]></name>
+		</entry>
+	
+		<entry id="12819" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[New Game!!]]></name>
+		</entry>
+	
+		<entry id="4121" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="24">
+			<name><![CDATA[NHK ni Youkoso!]]></name>
+		</entry>
+	
+		<entry id="8168" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="26">
+			<name><![CDATA[Nichijou]]></name>
+		</entry>
+	
+		<entry id="10896" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Nihon Anima(tor) Mihon`ichi]]></name>
+		</entry>
+	
+		<entry id="15138" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="10">
+			<name><![CDATA[Nihon Chinbotsu 2020]]></name>
+		</entry>
+	
+		<entry id="8658" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="11">
+			<name><![CDATA[Nisemonogatari]]></name>
+		</entry>
+	
+		<entry id="9998" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[No Game No Life]]></name>
+		</entry>
+	
+		<entry id="12276" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="1">
+			<name><![CDATA[No Game No Life Zero]]></name>
+		</entry>
+	
+		<entry id="4691" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="23">
+			<name><![CDATA[Nodame Cantabile]]></name>
+		</entry>
+	
+		<entry id="7019" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Nodame Cantabile: Finale]]></name>
+		</entry>
+	
+		<entry id="9722" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Non Non Biyori]]></name>
+		</entry>
+	
+		<entry id="9925" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Noragami]]></name>
+		</entry>
+	
+		<entry id="12004" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="12">
+			<name><![CDATA[Occultic;Nine]]></name>
+		</entry>
+	
+		<entry id="333" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Omoide Poroporo]]></name>
+		</entry>
+	
+		<entry id="6139" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="25">
+			<name><![CDATA[One Outs]]></name>
+		</entry>
+	
+		<entry id="11123" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="18">
+			<name><![CDATA[One Punch Man]]></name>
+		</entry>
+	
+		<entry id="12430" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[One Punch Man (2019)]]></name>
+		</entry>
+	
+		<entry id="11637" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="1">
+			<name><![CDATA[One Punch Man: Road to Hero]]></name>
+		</entry>
+	
+		<entry id="12369" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Onihei]]></name>
+		</entry>
+	
+		<entry id="8832" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ookami Kodomo no Ame to Yuki]]></name>
+		</entry>
+	
+		<entry id="5406" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ookami to Koushinryou]]></name>
+		</entry>
+	
+		<entry id="11938" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="13">
+			<name><![CDATA[Orange]]></name>
+		</entry>
+	
+		<entry id="7525" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Ore no Imouto ga Konna ni Kawaii Wake ga Nai]]></name>
+		</entry>
+	
+		<entry id="9134" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="16">
+			<name><![CDATA[Ore no Imouto ga Konna ni Kawaii Wake ga Nai.]]></name>
+		</entry>
+	
+		<entry id="11756" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="12">
+			<name><![CDATA[Oshiete! Galko-chan]]></name>
+		</entry>
+	
+		<entry id="130" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Otaku no Video]]></name>
+		</entry>
+	
+		<entry id="196" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ouritsu Uchuugun: Honneamise no Tsubasa]]></name>
+		</entry>
+	
+		<entry id="10813" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Owari no Seraph]]></name>
+		</entry>
+	
+		<entry id="10984" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="12">
+			<name><![CDATA[Owari no Seraph: Nagoya Kessen Hen]]></name>
+		</entry>
+	
+		<entry id="11350" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Owarimonogatari]]></name>
+		</entry>
+	
+		<entry id="7529" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="13">
+			<name><![CDATA[Panty & Stocking with Garterbelt]]></name>
+		</entry>
+	
+		<entry id="4191" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Paprika]]></name>
+		</entry>
+	
+		<entry id="10541" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="1">
+			<name><![CDATA[Paulette no Isu]]></name>
+		</entry>
+	
+		<entry id="154" is_watched="1" is_completed="1" my_rating="10" my_rating_temp="" eps="1">
+			<name><![CDATA[Perfect Blue]]></name>
+		</entry>
+	
+		<entry id="5706" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Pero Pero Candy]]></name>
+		</entry>
+	
+		<entry id="8378" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="11">
+			<name><![CDATA[Persona 4 The Animation]]></name>
+		</entry>
+	
+		<entry id="6256" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Phantom: Requiem for the Phantom]]></name>
+		</entry>
+	
+		<entry id="10400" is_watched="1" is_completed="1" my_rating="9" my_rating_temp="" eps="11">
+			<name><![CDATA[Ping Pong the Animation]]></name>
+		</entry>
+	
+		<entry id="895" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Planetes]]></name>
+		</entry>
+	
+		<entry id="13067" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Pop Team Epic]]></name>
+		</entry>
+	
+		<entry id="11552" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Prince of Stride: Alternative]]></name>
+		</entry>
+	
+		<entry id="516" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="38">
+			<name><![CDATA[Princess Tutu]]></name>
+		</entry>
+	
+		<entry id="13261" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="1">
+			<name><![CDATA[Promare]]></name>
+		</entry>
+	
+		<entry id="9127" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="22">
+			<name><![CDATA[Psycho-Pass]]></name>
+		</entry>
+	
+		<entry id="14735" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Psycho-Pass 3]]></name>
+		</entry>
+	
+		<entry id="10948" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="12">
+			<name><![CDATA[Punch Line]]></name>
+		</entry>
+	
+		<entry id="7389" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="26">
+			<name><![CDATA[Rainbow: Nisha Rokubou no Shichinin]]></name>
+		</entry>
+	
+		<entry id="11370" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="25">
+			<name><![CDATA[Re:Zero kara Hajimeru Isekai Seikatsu]]></name>
+		</entry>
+	
+		<entry id="15593" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Re:Zero kara Hajimeru Isekai Seikatsu (2021)]]></name>
+		</entry>
+	
+		<entry id="14792" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="13">
+			<name><![CDATA[Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season]]></name>
+		</entry>
+	
+		<entry id="6529" is_watched="1" is_completed="1" my_rating="9" my_rating_temp="" eps="1">
+			<name><![CDATA[Redline]]></name>
+		</entry>
+	
+		<entry id="11074" is_watched="1" is_completed="1" my_rating="" my_rating_temp="4" eps="13">
+			<name><![CDATA[Relife]]></name>
+		</entry>
+	
+		<entry id="14258" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Rinshi!! Ekoda-chan]]></name>
+		</entry>
+	
+		<entry id="15096" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="7">
+			<name><![CDATA[Runway de Waratte]]></name>
+		</entry>
+	
+		<entry id="73" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku Hen]]></name>
+		</entry>
+	
+		<entry id="12359" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ryuu no Haisha]]></name>
+		</entry>
+	
+		<entry id="10538" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Saenai Heroine no Sodatekata]]></name>
+		</entry>
+	
+		<entry id="12112" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Saiki Kusuo no Sainan (2016)]]></name>
+		</entry>
+	
+		<entry id="8870" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Sakamichi no Apollon: Kids on the Slope]]></name>
+		</entry>
+	
+		<entry id="8857" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="1">
+			<name><![CDATA[Sakasama no Patema]]></name>
+		</entry>
+	
+		<entry id="12602" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="25">
+			<name><![CDATA[Sakura Quest]]></name>
+		</entry>
+	
+		<entry id="9153" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="24">
+			<name><![CDATA[Sakura-sou no Pet na Kanojo]]></name>
+		</entry>
+	
+		<entry id="1543" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Samurai Champloo]]></name>
+		</entry>
+	
+		<entry id="11606" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="22">
+			<name><![CDATA[Sangatsu no Lion]]></name>
+		</entry>
+	
+		<entry id="12994" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="22">
+			<name><![CDATA[Sangatsu no Lion (2017)]]></name>
+		</entry>
+	
+		<entry id="13262" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Sayonara no Asa ni Yakusoku no Hana o Kazarou]]></name>
+		</entry>
+	
+		<entry id="5083" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="1">
+			<name><![CDATA[Sayonara Zetsubou-sensei]]></name>
+		</entry>
+	
+		<entry id="5117" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[School Days]]></name>
+		</entry>
+	
+		<entry id="171" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Seihou Bukyou Outlaw Star]]></name>
+		</entry>
+	
+		<entry id="7435" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Seikimatsu Occult Gakuin]]></name>
+		</entry>
+	
+		<entry id="4403" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Seirei no Moribito]]></name>
+		</entry>
+	
+		<entry id="13900" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="13">
+			<name><![CDATA[Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai]]></name>
+		</entry>
+	
+		<entry id="14397" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai]]></name>
+		</entry>
+	
+		<entry id="7532" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Seitokai Yakuindomo]]></name>
+		</entry>
+	
+		<entry id="10197" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Seitokai Yakuindomo *]]></name>
+		</entry>
+	
+		<entry id="10212" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Sekai Seifuku: Bouryaku no Zvezda]]></name>
+		</entry>
+	
+		<entry id="570" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Sennen Joyuu]]></name>
+		</entry>
+	
+		<entry id="99" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="13">
+			<name><![CDATA[Serial Experiments Lain]]></name>
+		</entry>
+	
+		<entry id="12482" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="1">
+			<name><![CDATA[Shelter.]]></name>
+		</entry>
+	
+		<entry id="10539" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="22">
+			<name><![CDATA[Shigatsu wa Kimi no Uso]]></name>
+		</entry>
+	
+		<entry id="7268" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Shiki]]></name>
+		</entry>
+	
+		<entry id="8895" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Shin Evangelion Gekijouban:||]]></name>
+		</entry>
+	
+		<entry id="9541" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="25">
+			<name><![CDATA[Shingeki no Kyojin]]></name>
+		</entry>
+	
+		<entry id="9826" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Shingeki no Kyojin OAD]]></name>
+		</entry>
+	
+		<entry id="10944" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Shingeki no Kyojin Season 2]]></name>
+		</entry>
+	
+		<entry id="13241" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Shingeki no Kyojin Season 3]]></name>
+		</entry>
+	
+		<entry id="14444" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="10">
+			<name><![CDATA[Shingeki no Kyojin Season 3 (2019)]]></name>
+		</entry>
+	
+		<entry id="11468" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Shingeki! Kyojin Chuugakkou]]></name>
+		</entry>
+	
+		<entry id="22" is_watched="0" is_completed="1" my_rating="" my_rating_temp="7" eps="2">
+			<name><![CDATA[Shinseiki Evangelion]]></name>
+		</entry>
+	
+		<entry id="202" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="1">
+			<name><![CDATA[Shinseiki Evangelion Gekijouban: Air / Magokoro o, Kimi ni]]></name>
+		</entry>
+	
+		<entry id="10779" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="24">
+			<name><![CDATA[Shirobako]]></name>
+		</entry>
+	
+		<entry id="14887" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Shishigari]]></name>
+		</entry>
+	
+		<entry id="10647" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="1">
+			<name><![CDATA[Shitcom]]></name>
+		</entry>
+	
+		<entry id="10901" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="24">
+			<name><![CDATA[Shokugeki no Souma]]></name>
+		</entry>
+	
+		<entry id="15319" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Shokugeki no Souma: Gou no Sara]]></name>
+		</entry>
+	
+		<entry id="11828" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="13">
+			<name><![CDATA[Shokugeki no Souma: Ni no Sara]]></name>
+		</entry>
+	
+		<entry id="13244" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Shokugeki no Souma: San no Sara]]></name>
+		</entry>
+	
+		<entry id="13658" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Shokugeki no Souma: San no Sara - Tootsuki Ressha Hen]]></name>
+		</entry>
+	
+		<entry id="287" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="33">
+			<name><![CDATA[Shoujo Kakumei Utena]]></name>
+		</entry>
+	
+		<entry id="13256" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="12">
+			<name><![CDATA[Shoujo Shuumatsu Ryokou]]></name>
+		</entry>
+	
+		<entry id="10960" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="13">
+			<name><![CDATA[Shouwa Genroku Rakugo Shinjuu (2016)]]></name>
+		</entry>
+	
+		<entry id="12062" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="12">
+			<name><![CDATA[Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi Hen]]></name>
+		</entry>
+	
+		<entry id="9892" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Sidonia no Kishi]]></name>
+		</entry>
+	
+		<entry id="10713" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Sidonia no Kishi: Daikyuu Wakusei Sen`eki]]></name>
+		</entry>
+	
+		<entry id="590" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Slam Dunk]]></name>
+		</entry>
+	
+		<entry id="5610" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="51">
+			<name><![CDATA[Soul Eater]]></name>
+		</entry>
+	
+		<entry id="2830" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Sousei no Aquarion]]></name>
+		</entry>
+	
+		<entry id="10027" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Space Dandy]]></name>
+		</entry>
+	
+		<entry id="218" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Spriggan]]></name>
+		</entry>
+	
+		<entry id="13260" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="12">
+			<name><![CDATA[SSSS.Gridman]]></name>
+		</entry>
+	
+		<entry id="7729" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="25">
+			<name><![CDATA[Steins;Gate]]></name>
+		</entry>
+	
+		<entry id="11167" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Steins;Gate 0]]></name>
+		</entry>
+	
+		<entry id="8655" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="1">
+			<name><![CDATA[Steins;Gate: Fuka Ryouiki no Deja vu]]></name>
+		</entry>
+	
+		<entry id="2185" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Stranger: Mukou Hadan]]></name>
+		</entry>
+	
+		<entry id="7221" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="1">
+			<name><![CDATA[Suzumiya Haruhi no Shoushitsu]]></name>
+		</entry>
+	
+		<entry id="3651" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="14">
+			<name><![CDATA[Suzumiya Haruhi no Yuuutsu]]></name>
+		</entry>
+	
+		<entry id="6367" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="28">
+			<name><![CDATA[Suzumiya Haruhi no Yuuutsu (2009)]]></name>
+		</entry>
+	
+		<entry id="8692" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="25">
+			<name><![CDATA[Sword Art Online]]></name>
+		</entry>
+	
+		<entry id="10376" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="1">
+			<name><![CDATA[Sword Art Online II]]></name>
+		</entry>
+	
+		<entry id="11039" is_watched="1" is_completed="1" my_rating="1" my_rating_temp="" eps="12">
+			<name><![CDATA[Taboo Tattoo]]></name>
+		</entry>
+	
+		<entry id="9077" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="13">
+			<name><![CDATA[Tari Tari]]></name>
+		</entry>
+	
+		<entry id="4054" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Tekkon Kinkreet (2006)]]></name>
+		</entry>
+	
+		<entry id="4575" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="27">
+			<name><![CDATA[Tengen Toppa Gurren Lagann]]></name>
+		</entry>
+	
+		<entry id="14534" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Tenki no Ko]]></name>
+		</entry>
+	
+		<entry id="331" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Tenkuu no Shiro Laputa]]></name>
+		</entry>
+	
+		<entry id="318" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Tenshi no Tamago]]></name>
+		</entry>
+	
+		<entry id="10439" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="1">
+			<name><![CDATA[Terra Formars]]></name>
+		</entry>
+	
+		<entry id="5722" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Tetsuwan Birdy Decode]]></name>
+		</entry>
+	
+		<entry id="673" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Texhnolyze]]></name>
+		</entry>
+	
+		<entry id="904" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[The Big O]]></name>
+		</entry>
+	
+		<entry id="8941" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[The Big O (2003)]]></name>
+		</entry>
+	
+		<entry id="10784" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[The Rolling Girls]]></name>
+		</entry>
+	
+		<entry id="8043" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="5">
+			<name><![CDATA[There She Is!!]]></name>
+		</entry>
+	
+		<entry id="14440" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Toaru Kagaku no Accelerator]]></name>
+		</entry>
+	
+		<entry id="6460" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="24">
+			<name><![CDATA[Toaru Kagaku no Railgun]]></name>
+		</entry>
+	
+		<entry id="9484" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Toaru Kagaku no Railgun S]]></name>
+		</entry>
+	
+		<entry id="14441" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Toaru Kagaku no Railgun T]]></name>
+		</entry>
+	
+		<entry id="5975" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="24">
+			<name><![CDATA[Toaru Majutsu no Index]]></name>
+		</entry>
+	
+		<entry id="7599" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="24">
+			<name><![CDATA[Toaru Majutsu no Index II]]></name>
+		</entry>
+	
+		<entry id="13481" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="2">
+			<name><![CDATA[Toaru Majutsu no Index III]]></name>
+		</entry>
+	
+		<entry id="4151" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="1">
+			<name><![CDATA[Toki o Kakeru Shoujo]]></name>
+		</entry>
+	
+		<entry id="10401" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="12">
+			<name><![CDATA[Tokyo Ghoul]]></name>
+		</entry>
+	
+		<entry id="10875" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Tokyo Ghoul Root A]]></name>
+		</entry>
+	
+		<entry id="1217" is_watched="1" is_completed="1" my_rating="7" my_rating_temp="" eps="1">
+			<name><![CDATA[Tokyo Godfathers]]></name>
+		</entry>
+	
+		<entry id="6441" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Tokyo Magnitude 8.0]]></name>
+		</entry>
+	
+		<entry id="9809" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Tonari no Seki-kun]]></name>
+		</entry>
+	
+		<entry id="303" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Tonari no Totoro]]></name>
+		</entry>
+	
+		<entry id="11466" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Tonkatsu DJ Agetarou]]></name>
+		</entry>
+	
+		<entry id="2120" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Top o Nerae 2! Diebuster]]></name>
+		</entry>
+	
+		<entry id="185" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Top o Nerae! Gunbuster]]></name>
+		</entry>
+	
+		<entry id="5909" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="25">
+			<name><![CDATA[Toradora!]]></name>
+		</entry>
+	
+		<entry id="3446" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Touhai Densetsu Akagi: Yami ni Maiorita Tensai]]></name>
+		</entry>
+	
+		<entry id="1942" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Trava: Fist Planet]]></name>
+		</entry>
+	
+		<entry id="53" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="26">
+			<name><![CDATA[Trigun]]></name>
+		</entry>
+	
+		<entry id="12761" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Tsuki ga Kirei]]></name>
+		</entry>
+	
+		<entry id="8865" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Uchuu Kyoudai]]></name>
+		</entry>
+	
+		<entry id="11920" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="13">
+			<name><![CDATA[Uchuu Patrol Luluco]]></name>
+		</entry>
+	
+		<entry id="648" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Uchuu Senkan Yamato]]></name>
+		</entry>
+	
+		<entry id="14094" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Ueno-san wa Bukiyou]]></name>
+		</entry>
+	
+		<entry id="13035" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Urahara]]></name>
+		</entry>
+	
+		<entry id="377" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="1">
+			<name><![CDATA[Urusei Yatsura]]></name>
+		</entry>
+	
+		<entry id="8211" is_watched="1" is_completed="1" my_rating="9" my_rating_temp="" eps="15">
+			<name><![CDATA[Usagi Drop]]></name>
+		</entry>
+	
+		<entry id="11053" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="2">
+			<name><![CDATA[Ushio to Tora (2015)]]></name>
+		</entry>
+	
+		<entry id="66" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Vampire Hunter D (2001)]]></name>
+		</entry>
+	
+		<entry id="181" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Versailles no Bara]]></name>
+		</entry>
+	
+		<entry id="13945" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Vinland Saga]]></name>
+		</entry>
+	
+		<entry id="12138" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Violet Evergarden]]></name>
+		</entry>
+	
+		<entry id="9582" is_watched="1" is_completed="1" my_rating="3" my_rating_temp="" eps="12">
+			<name><![CDATA[Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!]]></name>
+		</entry>
+	
+		<entry id="4032" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[xxxHOLiC]]></name>
+		</entry>
+	
+		<entry id="14053" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="4">
+			<name><![CDATA[Yagate Kimi ni Naru]]></name>
+		</entry>
+	
+		<entry id="9310" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="13">
+			<name><![CDATA[Yahari Ore no Seishun LoveCome wa Machigatte Iru.]]></name>
+		</entry>
+	
+		<entry id="14764" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="12">
+			<name><![CDATA[Yahari Ore no Seishun LoveCome wa Machigatte Iru. Kan]]></name>
+		</entry>
+	
+		<entry id="10601" is_watched="1" is_completed="1" my_rating="8" my_rating_temp="" eps="13">
+			<name><![CDATA[Yahari Ore no Seishun LoveCome wa Machigatte Iru. Zoku]]></name>
+		</entry>
+	
+		<entry id="14051" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Yakusoku no Neverland]]></name>
+		</entry>
+	
+		<entry id="12738" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Yoake Tsugeru Lu no Uta]]></name>
+		</entry>
+	
+		<entry id="7243" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Yojouhan Shinwa Taikei]]></name>
+		</entry>
+	
+		<entry id="11905" is_watched="1" is_completed="1" my_rating="4" my_rating_temp="" eps="12">
+			<name><![CDATA[Youjo Senki]]></name>
+		</entry>
+	
+		<entry id="13717" is_watched="0" is_completed="0" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Youjo Senki (2019)]]></name>
+		</entry>
+	
+		<entry id="7460" is_watched="0" is_completed="1" my_rating="" my_rating_temp="" eps="0">
+			<name><![CDATA[Yozakura Quartet: Hoshi no Umi]]></name>
+		</entry>
+	
+		<entry id="10963" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="1">
+			<name><![CDATA[Yuu Gi Ou: The Dark Side of Dimensions]]></name>
+		</entry>
+	
+		<entry id="12012" is_watched="1" is_completed="1" my_rating="5" my_rating_temp="" eps="12">
+			<name><![CDATA[Yuuri!!! on Ice]]></name>
+		</entry>
+	
+		<entry id="10537" is_watched="1" is_completed="1" my_rating="2" my_rating_temp="" eps="11">
+			<name><![CDATA[Zankyou no Terror]]></name>
+		</entry>
+	
+		<entry id="14198" is_watched="1" is_completed="1" my_rating="6" my_rating_temp="" eps="12">
+			<name><![CDATA[Zombie Land Saga]]></name>
+		</entry>
+	</anime>
+</mylist>
