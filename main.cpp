@@ -17,14 +17,18 @@ struct Show {
 void print_tiers(std::array<Show, 1000>);
 
 int main(int argc, char *argv[]) {
-    std::cout << "Loading Anime List.\n";
-
+    std::array<Show, 1000> arrayOfShows;
+    std::cout << "Anime Tier List.\n";
     tinyxml2::XMLDocument doc;
     FILE *myfile;
-    myfile = fopen("/home/jason/Code/TierListMaker/mylist.xml", "r");
-    doc.LoadFile(myfile);
 
-    std::array<Show, 1000> arrayOfShows;
+    if (argc >= 2) {
+        myfile = fopen(argv[1], "r");
+        doc.LoadFile(myfile);
+    } else {
+        std::cout << "Need XML file.\n";
+        return 0;
+    }
 
     tinyxml2::XMLElement *pEntryElement = doc.FirstChildElement("mylist")
                                               ->FirstChildElement("anime")
