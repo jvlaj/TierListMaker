@@ -1,3 +1,0 @@
-/home/jason/Code/TierListMaker/CMakeFiles/rebuild_cache.dir
-/home/jason/Code/TierListMaker/CMakeFiles/edit_cache.dir
-/home/jason/Code/TierListMaker/CMakeFiles/app.dir

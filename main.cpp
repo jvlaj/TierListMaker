@@ -43,6 +43,7 @@ int main(int argc, char *argv[]) {
             // std::cout << "Name: " << arrayOfShows[count].name << "\n";
             // std::cout << "Score: " << arrayOfShows[count].score << "\n";
             switch (arrayOfShows[count].score) {
+                case 10:
                 case 9:
                     arrayOfShows[count].tier = S;
                     break;
@@ -62,15 +63,8 @@ int main(int argc, char *argv[]) {
                     arrayOfShows[count].tier = E;
                     break;
                 case 3:
-                    arrayOfShows[count].tier = F;
-                    break;
                 case 2:
-                    arrayOfShows[count].tier = F;
-                    break;
                 case 1:
-                    arrayOfShows[count].tier = F;
-                    break;
-
                 default:
                     arrayOfShows[count].tier = F;
                     break;
